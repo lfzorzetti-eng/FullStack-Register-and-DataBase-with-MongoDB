@@ -49,7 +49,7 @@ To run this project locally, you will need:
 
 5.  **Run the application:**
     ```bash
-    npm start
+    npm  run dev
     ```
 
 ## Features
